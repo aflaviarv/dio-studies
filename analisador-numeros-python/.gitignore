@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ambientes virtuais
+.env
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de teste/cobertura, caso use futuramente
+.pytest_cache/
+.coverage
+htmlcov/
